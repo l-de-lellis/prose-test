@@ -1,10 +1,5 @@
-This is a tweet-length thing,
-and potatoes. I am proud. Here
-we go! This is awesome, and
-I am fantastical. Here's
-a link to a random iPhone app.
-Vampire Weekend. Time for
-a really long word...
-floccinaucinihilipilification
-antidisestablishmentarianism,
-said the toaster.
+# A demo of Git's lacking ability to handle prose
+
+Browse the commit history and see how Git handles changes in prose paragraphs (read: not
+perfectly). And perhaps do a little psychoanalysis on the random words my brain generated
+in a trance-like state.
